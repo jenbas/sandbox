@@ -1,0 +1,5 @@
+TO DO:
+
+on Style.css
+#sidebarvideoboximage{height:163px;width:323px;background-image:url(http://www.vocab.executivevocabulary.com/wp-content/ uploads/images/video1.jpg);}
+-missing image
